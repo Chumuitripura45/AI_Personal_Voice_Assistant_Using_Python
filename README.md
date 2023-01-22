@@ -10,3 +10,5 @@ A project to build an AI voice assistant using Python . The Voice assistant inte
 7. os
 8. random
 9. webbrowser
+
+Quite a good project.
